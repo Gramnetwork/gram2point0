@@ -1,0 +1,38 @@
+{
+  "name": "GRam 2.0",
+  "short_name": "GRam 2.0",
+  "start_url": "https://gram200.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#eb6712",
+  "description": "Berita Hiburan Unik",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/--VEwtoe_n38/XSoRj6uFDGI/AAAAAAAAFIU/0LnwLULS6c4Zt-1qLfB3Y7u5Ue8PSnVwQCLcBGAs/s48/icon%2Bgram%2B2.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--VEwtoe_n38/XSoRj6uFDGI/AAAAAAAAFIU/0LnwLULS6c4Zt-1qLfB3Y7u5Ue8PSnVwQCLcBGAs/s72/icon%2Bgram%2B2.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--VEwtoe_n38/XSoRj6uFDGI/AAAAAAAAFIU/0LnwLULS6c4Zt-1qLfB3Y7u5Ue8PSnVwQCLcBGAs/s96/icon%2Bgram%2B2.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--VEwtoe_n38/XSoRj6uFDGI/AAAAAAAAFIU/0LnwLULS6c4Zt-1qLfB3Y7u5Ue8PSnVwQCLcBGAs/s144/icon%2Bgram%2B2.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--VEwtoe_n38/XSoRj6uFDGI/AAAAAAAAFIU/0LnwLULS6c4Zt-1qLfB3Y7u5Ue8PSnVwQCLcBGAs/s168/icon%2Bgram%2B2.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--VEwtoe_n38/XSoRj6uFDGI/AAAAAAAAFIU/0LnwLULS6c4Zt-1qLfB3Y7u5Ue8PSnVwQCLcBGAs/s192/icon%2Bgram%2B2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--VEwtoe_n38/XSoRj6uFDGI/AAAAAAAAFIU/0LnwLULS6c4Zt-1qLfB3Y7u5Ue8PSnVwQCLcBGAs/s512/icon%2Bgram%2B2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
